@@ -1,1 +1,2 @@
 # sqlalchemy-challenge
+This is my submission to the module 10 challenge from Monash Universities data analyitics bootcamp course. Contained within are the Resource folder which contains the data used for this assignment. climate.ipynb which contains an analysis of the data provided. The app.py file contains a python webapp that displays josons of data queries.
