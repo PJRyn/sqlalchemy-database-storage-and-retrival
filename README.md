@@ -1,2 +1,2 @@
-# sqlalchemy-challenge
-This is my submission to the module 10 challenge from Monash Universities data analyitics bootcamp course. Contained within are the Resource folder which contains the data used for this assignment. climate.ipynb which contains an analysis of the data provided. The app.py file contains a python webapp that displays josons of data queries.
+# sqlalchemy-database-storage-and-retrival
+This was a task from my Monash data science bootcamp. For this task I had used SQLalchemy to store and retrive data about a holiday vacation in Honolulu from an SQL data base and visualise it within a python notebook file.
